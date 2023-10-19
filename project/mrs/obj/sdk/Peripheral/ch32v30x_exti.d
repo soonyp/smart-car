@@ -1,0 +1,11 @@
+sdk/Peripheral/ch32v30x_exti.o: \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/sdk/Peripheral/ch32v30x_exti.c \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/sdk/Peripheral/ch32v30x_exti.h \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/sdk/Peripheral/ch32v30x.h \
+ F:\Seekfree_CH32V307VCT6_Opensource_Library\Seekfree_CH32V307VCT6_Opensource_Library\libraries\sdk\Core/core_riscv.h
+
+F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/sdk/Peripheral/ch32v30x_exti.h:
+
+F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/sdk/Peripheral/ch32v30x.h:
+
+F:\Seekfree_CH32V307VCT6_Opensource_Library\Seekfree_CH32V307VCT6_Opensource_Library\libraries\sdk\Core/core_riscv.h:

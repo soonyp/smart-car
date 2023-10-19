@@ -1,0 +1,11 @@
+zf_common/zf_common_function.o: \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_function.c \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_debug.h \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_typedef.h \
+ F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_function.h
+
+F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_debug.h:
+
+F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_typedef.h:
+
+F:/Seekfree_CH32V307VCT6_Opensource_Library/Seekfree_CH32V307VCT6_Opensource_Library/libraries/zf_common/zf_common_function.h:
